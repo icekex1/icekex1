@@ -1,4 +1,4 @@
-![alt text](https://imgur.com/a/0D512Wk)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ### Hi there 👋
 

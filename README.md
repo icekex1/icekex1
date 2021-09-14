@@ -1,4 +1,4 @@
-![alt text](https://github.com/[icekex1]/[icekex1]/readme_header.jpg?raw=true)
+![alt text](https://imgur.com/a/0D512Wk)
 
 ### Hi there 👋
 

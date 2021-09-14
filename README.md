@@ -5,4 +5,3 @@
 - 🔭 I’m currently working on ... **minitalk**
 - 🌱 I’m currently learning ... **C**
 - 📫 How to reach me: ... **icekex23@gmail.com**
--->

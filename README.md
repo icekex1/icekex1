@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning ... **C**
 - 📫 How to reach me: ... **icekex23@gmail.com**
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=tblaase)](https://profile.intra.42.fr/users/tzeck)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=tzeck)](https://profile.intra.42.fr/users/tzeck)

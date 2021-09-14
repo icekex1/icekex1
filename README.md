@@ -1,5 +1,4 @@
-[![Header](https://raw.githubusercontent.com/icekex1/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
+![alt text](https://github.com/[icekex1]/[icekex1]/blob/[branch]/readme_header.jpg?raw=true)
 
 ### Hi there 👋
 

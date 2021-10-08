@@ -2,7 +2,7 @@
 
 ### hey there 👋
 
-- 🔭 i’m currently working on ... **FdF**
+- 🔭 i’m currently working on ... **FdF / push_swap**
 - 🌱 i’m currently learning ... **c**
 - 📫 how to reach me: ... **tzeck@student.42heilbronn.de**
 

@@ -4,6 +4,6 @@
 
 - 🔭 i’m currently working on ... **minishell (with @eschirni)**
 - 🌱 i’m currently learning ... **c**
-- 📫 how to reach me: ... **tzeck@student.42heilbronn.de**
+- 📫 how to reach me: ... **mail: tzeck@student.42heilbronn.de || discord: トム#0001**
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=tzeck)](https://profile.intra.42.fr/users/tzeck)

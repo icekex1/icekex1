@@ -2,7 +2,7 @@
 
 ### hey there 👋
 
-- 🔭 i’m currently working on ... **minishell (with @eschirni)**
+- 🔭 i’m currently working on ... **philosophers**
 - 🌱 i’m currently learning ... **c**
 - 📫 how to reach me: ... **mail: tzeck@student.42heilbronn.de || discord: トム#0001**
 

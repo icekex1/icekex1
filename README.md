@@ -2,8 +2,8 @@
 
 ### hey there 👋
 
-- 🔭 i’m currently working on ... **philosophers**
-- 🌱 i’m currently learning ... **c**
+- 🔭 i’m currently working on ... **netpractice**
+- 🌱 i’m currently learning ... **c / c++**
 - 📫 how to reach me: ... **mail: tzeck@student.42heilbronn.de || discord: トム#0001**
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=tzeck)](https://profile.intra.42.fr/users/tzeck)

@@ -2,7 +2,7 @@
 
 ### hey there 👋
 
-- 🔭 i’m currently working on ... **cpp modules**
+- 🔭 i’m currently working on ... **miniRT (ray tracer)**
 - 🌱 i’m currently learning ... **c / c++**
 - 📫 how to reach me: ... **mail: tzeck@student.42heilbronn.de || discord: トム#0001**
 

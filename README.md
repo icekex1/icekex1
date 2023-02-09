@@ -2,8 +2,8 @@
 
 ### hey there 👋
 
-- 🔭 i’m currently working on ... **inception (docker project)**
-- 🌱 i’m currently learning ... **c / c++**
+- 🔭 i’m currently working on ... **[kaggle](https://www.kaggle.com) competitions**
+- 🌱 i’m currently learning ... **c / c++ / python**
 - 📫 how to reach me: <br>
     **mail:** tzeck@student.42heilbronn.de <br>
-    **discord:** 𝘁𝗼𝗺#0001
+    **discord:** 𝘁𝗼𝗺#4604

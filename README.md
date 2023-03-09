@@ -2,7 +2,7 @@
 
 ### hey there 👋
 
-- 🔭 i’m currently working on: **[kaggle projects](https://www.kaggle.com)**
+- 🔭 i’m currently working on: **ft_transendence and [kaggle projects](https://www.kaggle.com)**
 - 🌱 i’m currently learning: **c / c++ / python**
 - 📫 how to reach me: <br>
     **mail:** tzeck@student.42heilbronn.de <br>

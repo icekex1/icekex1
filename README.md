@@ -2,8 +2,8 @@
 
 ### hey there 👋
 
-- 🔭 i’m currently working on: **ft_transendence and [kaggle projects](https://www.kaggle.com)**
-- 🌱 i’m currently learning: **c / c++ / python**
+- 🔭 i’m currently working on: **ft_transendence**
+- 🌱 i’m currently learning: **c / c++**
 - 📫 how to reach me: <br>
     **mail:** tzeck@student.42heilbronn.de <br>
     **discord:** 𝘁𝗼𝗺#4604

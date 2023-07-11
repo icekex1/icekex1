@@ -4,7 +4,8 @@
 
 ### hey there 👋
 
-- 🔭 i’m currently working on: **ft_transendence**
-- 🌱 i’m currently learning: **c / c++**
+- 🔭 i’m currently doing my internship at: **[vector](https://www.vector.com/us/en/)**
+- 🌱 i’m currently learning: **c / c++ / embedded systems**
 - 📫 how to reach me: <br>
     **mail:** tzeck@student.42heilbronn.de <br>
+    **slack:** tzeck

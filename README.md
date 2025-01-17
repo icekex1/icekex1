@@ -7,5 +7,5 @@
 - 🔭 i’m currently doing my Mastery at 42Heilbronn
 - 🌱 i’m currently learning: **python & data**
 - 📫 how to reach me: <br>
-    **mail:** tzeck@student.42heilbronn.de <br>
+    **mail:** tomk@42heilbronn.de <br>
     **slack:** tzeck
